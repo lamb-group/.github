@@ -16,7 +16,7 @@ We combine:
 
 ## 👥 Principal Investigator
 [Stephen Lam](mailto:stephen_lam@uml.edu)  
-*Assistant Professor, Chemical and Nuclear Engineering*
+*Assistant Professor, Chemical and Nuclear Engineering*  
 University of Massachusetts Lowell
 
 ## Contact Us
