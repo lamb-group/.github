@@ -1,6 +1,5 @@
 # Laboratory for Accelerated Materials Breakthroughs (LAMB)
-# AKA Lam Research Group @ UMass Lowell
-# (Under Construction)
+AKA Lam Research Group @ UMass Lowell
 
 Accelerating materials innovation for extreme environments and clean energy systems.
 
@@ -18,5 +17,7 @@ We combine:
 ## 👥 Principal Investigator
 [Stephen Lam](mailto:stephen_lam@uml.edu)  
 *Assistant Professor, Chemical and Nuclear Engineering*
+University of Massachusetts Lowell
 
+## Contact Us
 We welcome collaborations and student inquiries!
